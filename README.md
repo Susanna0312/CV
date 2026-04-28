@@ -1,6 +1,6 @@
 # CV
-# Entry Level Data Analyst|Career Restart
-After an 7-year career break, I have intentionally restarted my career in Data Analytics by:
+# Entry Level Data Analyst
+
 
   -Learning industry-relevant tools and techniques
 
